@@ -3,7 +3,7 @@
 <div align="center">
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:60A5FA&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=1E3A8A&fontAlignY=35" alt="Welcome banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:60A5FA&height=150&section=header&text=Welcome%20to%20my%20GitHub&fontSize=32&fontColor=1E3A8A&fontAlignY=35" alt="Welcome banner" width="100%">
 </div>
 
 # Hey there, I'm Varshini Jayavarapu 👋
