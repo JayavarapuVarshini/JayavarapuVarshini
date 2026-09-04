@@ -98,9 +98,6 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayavarapuVarshini&hide_border=true&background=00000000&ring=60A5FA&fire=2563EB&currStreakLabel=60A5FA&sideLabels=60A5FA&currStreakNum=2563EB&sideNums=93C5FD&dates=808080" alt="GitHub streak">
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JayavarapuVarshini&theme=github-compact&hide_border=true" alt="GitHub activity graph">
 </div>
 
 ---
