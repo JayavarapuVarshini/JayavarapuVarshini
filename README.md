@@ -1,28 +1,23 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4F9CF9,100:2563EB&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling">
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:4F9CF9,100:2563EB&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling"
+  alt="Welcome banner"
+  width="100%"
+>
 
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:60A5FA&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling">
-  
-</picture>
+<h1>Hey there, I'm Varshini Jayavarapu 👋</h1>
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F9CF9,100:2563EB&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling" alt="Welcome banner" width="100%">
-</div>
-
-# Hey there, I'm Varshini Jayavarapu 👋
-
-### Data Science Student • Aspiring Data Scientist
+<h3>Data Science Student • Aspiring Data Scientist</h3>
 
 <a href="https://github.com/JayavarapuVarshini">
   <img src="https://img.shields.io/github/followers/JayavarapuVarshini?label=Followers&style=for-the-badge&color=60A5FA&labelColor=1F1F1F&logo=github&logoColor=FFFFFF" alt="GitHub followers">
 </a>
+
 <a href="https://github.com/JayavarapuVarshini?tab=repositories">
   <img src="https://img.shields.io/github/stars/JayavarapuVarshini?affiliations=OWNER&style=for-the-badge&color=93C5FD&labelColor=1F1F1F&logo=github&logoColor=FFFFFF" alt="GitHub stars">
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=JayavarapuVarshini&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile views">
 
 <br><br>
