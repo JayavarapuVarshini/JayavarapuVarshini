@@ -2,10 +2,24 @@
 
 <!-- 🌊 RESPONSIVE LIGHT/DARK BANNER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4F9CF9,100:2563EB&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:60A5FA&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling">
-  <img alt="Welcome banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:60A5FA&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4F9CF9,100:2563EB&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling"
+  >
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:60A5FA&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling"
+  >
+
+  <img
+    alt="Welcome banner"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:60A5FA&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling"
+    width="100%"
+  >
 </picture>
+
+</div>
 
 # Hey there, I'm Varshini Jayavarapu 👋
 
