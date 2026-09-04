@@ -74,7 +74,7 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,javascripthtml,css&theme=light" alt="Programming languages">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,c&theme=light" alt="Programming languages">
 
 ### Frameworks & Libraries
 
@@ -106,7 +106,7 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JayavarapuVarshini&bg_color=00000000&color=60A5FA&line=2563EB&point=93C5FD&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" alt="GitHub activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JayavarapuVarshini&theme=github-compact&hide_border=true" alt="GitHub activity graph">
 
 </div>
 
@@ -119,6 +119,7 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
 <!-- GitHub Action: https://github.com/Platane/snk -->
 
 <img src="https://raw.githubusercontent.com/JayavarapuVarshini/JayavarapuVarshini/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+
 </div>
 
 ---
