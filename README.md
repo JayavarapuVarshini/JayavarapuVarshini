@@ -75,7 +75,7 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,c&theme=light" alt="Programming languages">
+<img src="https://skillicons.dev/icons?i=python,java,js,c&theme=light" alt="Programming languages">
 
 ### Frameworks & Libraries
 
@@ -83,11 +83,11 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
 
 ### Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,vercel&theme=light" alt="Databases and cloud">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,aws,vercel&theme=light" alt="Databases and cloud">
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=light" alt="Tools and platforms">
+<img src="https://skillicons.dev/icons?i=github,vscode,postman,docker&theme=light" alt="Tools and platforms">
 
 </div>
 
