@@ -33,7 +33,6 @@
 </div>
 
 ---
-
 ## 🌊 About Me
 
 <table>
@@ -42,16 +41,17 @@
 
 ### Hi, I'm [YOUR_NAME]! 👋
 
-I'm a passionate **[YOUR_PROFESSION]** who loves turning ideas into meaningful digital experiences.
+I'm a passionate **Data Science student** who loves exploring data, learning new technologies, and building meaningful projects with code.
 
+- 🎓 Currently pursuing **[YOUR_COURSE]** at **[YOUR_COLLEGE]**
 - 🔭 Currently working on **[YOUR_CURRENT_PROJECT]**
-- 🌱 Currently learning **[YOUR_CURRENT_LEARNING]**
-- 💡 Interested in **[YOUR_INTERESTS]**
-- 🤝 Open to collaborating on **[YOUR_COLLABORATION_INTERESTS]**
-- 💬 Ask me about **[YOUR_EXPERTISE]**
-- ⚡ Fun fact: **[YOUR_FUN_FACT]**
+- 🌱 Currently learning **Python, Data Science & Machine Learning**
+- 💡 Interested in **Data Analytics, AI & Machine Learning**
+- 🤝 Open to collaborating on **Data Science & Python Projects**
+- 💬 Ask me about **Python, Data Analysis & SQL**
+- ⚡ Fun fact: **I enjoy turning data into meaningful insights!**
 
-> *"Code is not just about solving problems — it's about creating possibilities."* ✨
+> *"Learning today, building tomorrow."* ✨
 
 </td>
 <td width="35%" align="center" valign="middle">
@@ -60,7 +60,7 @@ I'm a passionate **[YOUR_PROFESSION]** who loves turning ideas into meaningful d
 
 <br><br>
 
-**[YOUR_SHORT_BIO]**
+**Aspiring Data Scientist | Lifelong Learner**
 
 </td>
 </tr>
