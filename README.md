@@ -102,18 +102,6 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- GitHub Action: https://github.com/Platane/snk -->
-
-<img src="https://raw.githubusercontent.com/JayavarapuVarshini/JayavarapuVarshini/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
