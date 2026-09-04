@@ -96,17 +96,7 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JayavarapuVarshini&show_icons=true&hide_border=true&bg_color=00000000&title_color=60A5FA&icon_color=2563EB&text_color=808080" alt="GitHub stats" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayavarapuVarshini&layout=compact&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=808080" alt="Top languages" height="180">
-
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayavarapuVarshini&hide_border=true&background=00000000&ring=60A5FA&fire=2563EB&currStreakLabel=60A5FA&sideLabels=60A5FA&currStreakNum=2563EB&sideNums=93C5FD&dates=808080" alt="GitHub streak">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JayavarapuVarshini&theme=github-compact&hide_border=true" alt="GitHub activity graph">
 
 </div>
 
