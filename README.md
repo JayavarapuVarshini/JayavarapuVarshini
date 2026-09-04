@@ -117,10 +117,12 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
 
 ### ✨ Thanks for stopping by! ✨
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4F9CF9,100:2563EB&height=120&section=footer&text=Keep%20Building%20%7C%20Keep%20Growing&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:60A5FA&height=120&section=footer&text=Keep%20Building%20%7C%20Keep%20Growing&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=twinkling">
-  <img alt="Waving footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:60A5FA&height=120&section=footer&text=Keep%20Building%20%7C%20Keep%20Growing&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=twinkling">
-</picture>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:4F9CF9,100:2563EB&height=120&section=footer&text=Keep%20Building%20%7C%20Keep%20Growing&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=twinkling"
+  alt="Keep Building and Keep Growing"
+  width="100%"
+>
+
+</div>
 
 </div>
