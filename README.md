@@ -56,7 +56,7 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="[YOUR_PROFILE_IMAGE_URL]" alt="[YOUR_NAME]" width="260" style="border-radius: 50%;">
+<img src="/profile%20for%20github.jpeg" alt="Varshini Jayavarapu" width="260" style="border-radius: 50%;">
 
 <br><br>
 
