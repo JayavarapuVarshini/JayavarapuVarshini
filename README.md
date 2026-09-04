@@ -115,7 +115,7 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
 
 <div align="center">
   <h3>✨ Thanks for stopping by! ✨</h3>
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F9CF9,100:2563EB&height=120&section=footer&text=Keep%20Building%20%7C%20Keep%20Growing&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" alt="Keep Building and Keep Growing" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:60A5FA,100:DBEAFE&height=120&section=footer&text=Keep%20Building%20%7C%20Keep%20Growing&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" alt="Keep Building and Keep Growing" width="100%">
 </div>
 </div>
 
