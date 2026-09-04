@@ -113,16 +113,10 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
   <img src="https://img.shields.io/badge/Email-93C5FD?style=for-the-badge&logo=gmail&logoColor=1F1F1F" alt="Email">
 </a>
 
-<br><br>
-
-### ✨ Thanks for stopping by! ✨
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:4F9CF9,100:2563EB&height=120&section=footer&text=Keep%20Building%20%7C%20Keep%20Growing&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=twinkling"
-  alt="Keep Building and Keep Growing"
-  width="100%"
->
-
+<div align="center">
+  <h3>✨ Thanks for stopping by! ✨</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving%26color=0:4F9CF9,100:2563EB%26height=120%26section=footer%26text=Keep%20Building%20%7C%20Keep%20Growing%26fontSize=24%26fontColor=FFFFFF%26fontAlignY=65%26animation=twinkling" alt="Keep Building and Keep Growing" width="100%">
+</div>
 </div>
 
 </div>
