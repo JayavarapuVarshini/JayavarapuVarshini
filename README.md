@@ -39,32 +39,32 @@
 <tr>
 <td width="65%" valign="top">
 
-### Hi, I'm [YOUR_NAME]! 👋
+### Hi, I'm Varshini Jayavarapu! 👋
 
 I'm a passionate **Data Science student** who loves exploring data, learning new technologies, and building meaningful projects with code.
 
-- 🎓 Currently pursuing **[YOUR_COURSE]** at **[YOUR_COLLEGE]**
-- 🔭 Currently working on **[YOUR_CURRENT_PROJECT]**
-- 🌱 Currently learning **Python, Data Science & Machine Learning**
-- 💡 Interested in **Data Analytics, AI & Machine Learning**
-- 🤝 Open to collaborating on **Data Science & Python Projects**
-- 💬 Ask me about **Python, Data Analysis & SQL**
-- ⚡ Fun fact: **I enjoy turning data into meaningful insights!**
+* 🎓 Currently pursuing **B.Tech** at **KL University**
+* 🌱 Currently learning **Python, Data Science & Machine Learning**
+* 💡 Interested in **Data Analytics, AI & Machine Learning**
+* 🤝 Open to collaborating on **Data Science & Python Projects**
+* 💬 Ask me about **Python, Data Analysis & SQL**
+* ⚡ Fun fact: **I enjoy turning data into meaningful insights!**
 
 > *"Learning today, building tomorrow."* ✨
 
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="/profile%20for%20github.jpeg" alt="Varshini Jayavarapu" width="260" style="border-radius: 50%;">
+<img src="[YOUR_PROFILE_IMAGE_URL]" alt="[YOUR_NAME]" width="260" style="border-radius: 50%;">
 
 <br><br>
 
-**Aspiring Data Scientist | Lifelong Learner**
+**Aspiring Data Scientist**
 
 </td>
 </tr>
 </table>
+
 
 ---
 
@@ -74,19 +74,19 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,html,css&theme=light" alt="Programming languages">
+<img src="https://skillicons.dev/icons?i=python,java,javascripthtml,css&theme=light" alt="Programming languages">
 
 ### Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,tailwind,bootstrap&theme=light" alt="Frameworks and libraries">
+<img src="https://skillicons.dev/icons?i=react,nodejs,spring&theme=light" alt="Frameworks and libraries">
 
 ### Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,aws,vercel&theme=light" alt="Databases and cloud">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,vercel&theme=light" alt="Databases and cloud">
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma&theme=light" alt="Tools and platforms">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=light" alt="Tools and platforms">
 
 </div>
 
@@ -96,17 +96,17 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&hide_border=true&bg_color=00000000&title_color=60A5FA&icon_color=2563EB&text_color=808080&ring_color=93C5FD&cache_seconds=86400" alt="GitHub stats" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=JayavarapuVarshini&show_icons=true&hide_border=true&bg_color=00000000&title_color=60A5FA&icon_color=2563EB&text_color=808080&ring_color=93C5FD&cache_seconds=86400" alt="GitHub stats" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=808080&langs_count=8&cache_seconds=86400" alt="Top languages" height="180">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&hide_border=true&background=00000000&ring=60A5FA&fire=2563EB&currStreakLabel=60A5FA&sideLabels=60A5FA&currStreakNum=2563EB&sideNums=93C5FD&dates=808080" alt="GitHub streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayavarapuVarshini&layout=compact&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=808080&langs_count=8&cache_seconds=86400" alt="Top languages" height="180">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=00000000&color=60A5FA&line=2563EB&point=93C5FD&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" alt="GitHub activity graph">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JayavarapuVarshini&hide_border=true&background=00000000&ring=60A5FA&fire=2563EB&currStreakLabel=60A5FA&sideLabels=60A5FA&currStreakNum=2563EB&sideNums=93C5FD&dates=808080" alt="GitHub streak">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JayavarapuVarshini&bg_color=00000000&color=60A5FA&line=2563EB&point=93C5FD&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" alt="GitHub activity graph">
 
 </div>
 
@@ -118,8 +118,7 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
 
 <!-- GitHub Action: https://github.com/Platane/snk -->
 
-<img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-
+<img src="https://raw.githubusercontent.com/JayavarapuVarshini/JayavarapuVarshini/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </div>
 
 ---
@@ -128,22 +127,10 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
+<a href="https://www.linkedin.com/in/jayavarapu-varshini-64313a348">
   <img src="https://img.shields.io/badge/LinkedIn-60A5FA?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
 </a>
-<a href="https://x.com/[YOUR_X_USERNAME]">
-  <img src="https://img.shields.io/badge/X-93C5FD?style=for-the-badge&logo=x&logoColor=1F1F1F" alt="X">
-</a>
-<a href="https://www.instagram.com/[YOUR_INSTAGRAM_USERNAME]">
-  <img src="https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram">
-</a>
-<a href="https://www.tiktok.com/@[YOUR_TIKTOK_USERNAME]">
-  <img src="https://img.shields.io/badge/TikTok-60A5FA?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" alt="TikTok">
-</a>
-<a href="https://www.youtube.com/@[YOUR_YOUTUBE_USERNAME]">
-  <img src="https://img.shields.io/badge/YouTube-2563EB?style=for-the-badge&logo=youtube&logoColor=FFFFFF" alt="YouTube">
-</a>
-<a href="mailto:[YOUR_EMAIL]">
+<a href="mailto:varshinijayavarapu3@gmail.com">
   <img src="https://img.shields.io/badge/Email-93C5FD?style=for-the-badge&logo=gmail&logoColor=1F1F1F" alt="Email">
 </a>
 
