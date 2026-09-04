@@ -7,17 +7,17 @@
   <img alt="Welcome banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,100:60A5FA&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling">
 </picture>
 
-# Hey there, I'm Varshini Jayavarapu👋
+# Hey there, I'm Varshini Jayavarapu 👋
 
-### Data Science Student •  Aspiring Data Scientist 
+### Data Science Student • Aspiring Data Scientist
 
 <a href="https://github.com/JayavarapuVarshini">
-  <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Followers&style=for-the-badge&color=60A5FA&labelColor=1F1F1F&logo=github&logoColor=FFFFFF" alt="GitHub followers">
+  <img src="https://img.shields.io/github/followers/JayavarapuVarshini?label=Followers&style=for-the-badge&color=60A5FA&labelColor=1F1F1F&logo=github&logoColor=FFFFFF" alt="GitHub followers">
 </a>
-<a href="https://github.com/[YOUR_USERNAME]?tab=repositories">
-  <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?affiliations=OWNER&style=for-the-badge&color=93C5FD&labelColor=1F1F1F&logo=github&logoColor=FFFFFF" alt="GitHub stars">
+<a href="https://github.com/JayavarapuVarshini?tab=repositories">
+  <img src="https://img.shields.io/github/stars/JayavarapuVarshini?affiliations=OWNER&style=for-the-badge&color=93C5FD&labelColor=1F1F1F&logo=github&logoColor=FFFFFF" alt="GitHub stars">
 </a>
-<img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=JayavarapuVarshini&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile views">
 
 <br><br>
 
@@ -27,12 +27,14 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-1F1F1F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/[YOUR_USERNAME])
-[![Portfolio](https://img.shields.io/badge/Portfolio-60A5FA?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)]([YOUR_PORTFOLIO_URL])
+<a href="https://github.com/JayavarapuVarshini">
+  <img src="https://img.shields.io/badge/GitHub-1F1F1F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+</a>
 
 </div>
 
 ---
+
 ## 🌊 About Me
 
 <table>
@@ -55,16 +57,15 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="[YOUR_PROFILE_IMAGE_URL]" alt="[YOUR_NAME]" width="260" style="border-radius: 50%;">
+<img src="https://raw.githubusercontent.com/JayavarapuVarshini/JayavarapuVarshini/main/profile%20for%20github.jpeg" alt="Varshini Jayavarapu" width="260" style="border-radius: 50%;">
 
 <br><br>
 
-**Aspiring Data Scientist**
+**Aspiring Data Scientist 📊**
 
 </td>
 </tr>
 </table>
-
 
 ---
 
@@ -74,7 +75,7 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,c&theme=light" alt="Programming languages">
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,c&theme=light" alt="Programming languages">
 
 ### Frameworks & Libraries
 
@@ -97,6 +98,20 @@ I'm a passionate **Data Science student** who loves exploring data, learning new
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayavarapuVarshini&hide_border=true&background=00000000&ring=60A5FA&fire=2563EB&currStreakLabel=60A5FA&sideLabels=60A5FA&currStreakNum=2563EB&sideNums=93C5FD&dates=808080" alt="GitHub streak">
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayavarapuVarshini/JayavarapuVarshini/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JayavarapuVarshini/JayavarapuVarshini/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/JayavarapuVarshini/JayavarapuVarshini/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
