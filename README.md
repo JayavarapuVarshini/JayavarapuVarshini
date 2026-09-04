@@ -1,6 +1,6 @@
 
 
-</div>
+<div align="center">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F9CF9,100:2563EB&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=twinkling" alt="Welcome banner" width="100%">
